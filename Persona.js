@@ -28,7 +28,7 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Juan Lopez",
+				Name: "Juanillo Lopez",
 				Photo: "man.png",
 				Quote: "Carpe Diem",
 				Age: 32,
