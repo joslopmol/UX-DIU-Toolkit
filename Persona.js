@@ -70,7 +70,7 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Monica Suarez",
-				Photo: "woman.png",
+				Photo: "woman.jpg",
 				Quote: "A quotation that captures the essence of this person's personality",
 				Age: 17,
 				Occupation: "Searching for a cure for the Empress",
