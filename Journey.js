@@ -29,35 +29,35 @@ angular.module("angular", [])
                 /*** Cambiar datos             *******/
                 /*************************************/
                 
-				Id: 0,
-				Name: "Juan Lopez",
-                Photo: "man.png",
+		Id: 0,
+		Name: "Julio Ortega",
+                Photo: "persona1.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "quiere buscar un piso compartido en Lugo para mudarse de casa de su abuela",
+                touch1: "móvil",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
+                con1: " buscar ofertas de internet cerca del bar donde trabaja",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "ordenador",
+                goal2: "Busca en internet ofertas en su localización",
+                touch2: "móvil",
                 feel2: "2",
                 con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "decide buscar alojamiento en piso de 4 estudiantes para ahorrar más dinero",
+                touch3: "móvil",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                con3: "Está preocupado ",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Los amigos de la infancia le recomiendan una página para escoger alojamientos",
                 touch4: "ordenador",
                 feel4: "4",
                 con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
@@ -65,19 +65,19 @@ angular.module("angular", [])
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
+                goal5: "Se encuentra 5 opciones que encajan en sus preferencias",
                 touch5: "móvil (whatsapp)",
                 feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
+                con5: "Consulta con sus compañeros de trabajo si es buena la ubicación de los pisos encontrados.",
                 ima5: "cartoon-phoning.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Consigue un piso ideal calidad-precio.",
                 touch6: "ordenador",
                 feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                con6: "Aún no le han confirmado las condiciones contractuales y tampoco ha firmado.",
                 ima6: "cartoon-resting.png",
                 
 			},
