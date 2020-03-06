@@ -26,38 +26,36 @@ angular.module("angular", [])
                 /*** Cambiar datos             *******/
                 /*************************************/
                 
-                
-				Id: 0,
-				Name: "Juanillo Lopez",
-				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+                Id: 0,
+				Name: "Julio Ortega",
+				Photo: "persona1.jpg",
+				Quote: "Amor omnia vincit",
+				Age: 26,
+				Occupation: "Camarero",
+				Family: "Tiene 2 hermanas mayores.",
+				Location: "Lugo",
+				Character: "Le gusta disfrutar de sus amistades.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5},
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Disfrutar del tiempo libre, viajar.", "Buscar un trabajo mejor."],
+				Frustrations: ["no le gusta la tecnología, por lo que siempre recurre a sus amigos", "Le gustaría tener más tiempo libre y desarrollarse más personalmente."],
+				Bio: "Es de Zaragoza y vino a Lugo por trabajo. LLeva 5 años trabajando en un bar. Aqui ha hecho buenos amigos en la ciudad y normalmente ser reunen para fiestas, a veces organizan viajes. Ahora mismo está viviendo en un piso compartido a las afueras de la ciudad.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
-					
+					{ Name: "Movil", Value: 3 },
+					{ Name: "RRSS", Value: 4 },
+					{ Name: "Software", Value: 0 }	
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "LLeva un tiempo pensando en cambiarse de piso y quiere hacerlo cuanto antes. Le gustaría vivir en el centro de la ciudad y no tener que perder tanto tiempo en el transporte.",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
+					{ Name: "Publicidad Tradicional", Value: 1 },
+					{ Name: "Online & Social Media", Value: 2 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			},
 			{	
